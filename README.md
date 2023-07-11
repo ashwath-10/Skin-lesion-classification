@@ -1,6 +1,6 @@
 # Skin-lesion-classification
 
-## Abou the project
+## About the project
 ### - Engineered advanced deep learning model for precise skin lesion classification with an impressive 90% accuracy.
 ### - Used the HAM10000 dataset to enable automated diagnosis, empowering dermatologists with eﬃcient and accurate skin disease assessments.
 
